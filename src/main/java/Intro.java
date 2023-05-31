@@ -30,8 +30,8 @@ public class Intro {
 
         String name1 = "Florian";
         String name2 = "Christian";
-        String name3 = "Ammar";
-        String name4 = "Collins";
+        String name3 = "Daniel";
+        String name4 = "Anton";
         String name5 = "Sahed";
 
         String[] names = new String[6];
