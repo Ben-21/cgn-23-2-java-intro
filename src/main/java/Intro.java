@@ -32,7 +32,7 @@ public class Intro {
         String name2 = "Christian";
         String name3 = "Daniel";
         String name4 = "Anton";
-        String name5 = "Joshua";
+        String name5 = "Elias";
 
         String[] names = new String[6];
         names[0] = name1;
