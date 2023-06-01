@@ -59,6 +59,5 @@ public class Intro {
 
         System.out.println(Arrays.toString(numbers));
 
-
     }
 }
