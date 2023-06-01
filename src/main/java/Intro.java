@@ -50,6 +50,7 @@ public class Intro {
         numbers[0] = 123;
         numbers[1] = 1;
         numbers[2] = 6874841;
+        numbers[3] = 451;
 
         System.out.println(numbers[0] + " " + numbers[2]);
 
@@ -58,6 +59,5 @@ public class Intro {
         System.out.println(numbers.length);
 
         System.out.println(Arrays.toString(numbers));
-
     }
 }
