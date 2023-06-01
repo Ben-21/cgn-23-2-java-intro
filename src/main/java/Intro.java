@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Intro {
     public static void main(String[] args) {
-        String myFirstStringVariable = "Hallo cgn-23-2!!!";
+        String myFirstStringVariable = "Tschüüüsss cgn-23-2!!!";
 
         System.out.println(myFirstStringVariable);
 
